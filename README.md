@@ -181,23 +181,49 @@ The notebook generates:
 
 ---
 
-# Citation
+# References
 
-If you use this implementation in your research, please cite both the original MCNet paper and the DeepSig RadioML 2018.01A dataset.
+If you use this repository, please have a look at my papers:
 
 ```bibtex
-@article{HuynhThe2020MCNet,
-  title={MCNet: An Efficient CNN Architecture for Robust Automatic Modulation Classification},
-  author={Huynh-The, Thien and Hua, Cam-Hao and Pham, Quoc-Viet and Kim, Dong-Seong},
-  journal={IEEE Communications Letters},
-  volume={24},
-  number={4},
-  pages={811--815},
-  year={2020},
+@article{salmi2026xai,
+  title={XAI-Guided Physical Adversarial Machine Learning Attacks on Automatic Modulation Classification},
+  author={Salmi, Younes and Bogucka, Hanna},
+  journal={IEEE Journal on Selected Areas in Communications},
+  year={2026},
   publisher={IEEE}
 }
 ```
-
+```bibtex
+@inproceedings{salmi2025physical,
+  title={Physical backdoor attack against deep learning-based modulation classification},
+  author={Salmi, Younes and Bogucka, Hanna},
+  booktitle={2025 IEEE International Mediterranean Conference on Communications and Networking (MeditCom)},
+  pages={1--6},
+  year={2025},
+  organization={IEEE}
+}
+```
+```bibtex
+@inproceedings{salmi2025mitigating,
+  title={Mitigating evasion attacks in fog computing resource provisioning through proactive hardening},
+  author={Salmi, Younes and Bogucka, Hanna},
+  booktitle={2025 Joint European Conference on Networks and Communications \& 6G Summit (EuCNC/6G Summit)},
+  pages={769--774},
+  year={2025},
+  organization={IEEE}
+}
+```
+```bibtex
+@inproceedings{salmi2026vulnerability,
+  title={On the Vulnerability of Deep Automatic Modulation Classifiers to Explainable Backdoor Threats},
+  author={Salmi, Younes and Bogucka, Hanna},
+  booktitle={2026 IEEE 23rd Consumer Communications \& Networking Conference (CCNC)},
+  pages={1--4},
+  year={2026},
+  organization={IEEE}
+}
+```
 ---
 
 # Acknowledgements
